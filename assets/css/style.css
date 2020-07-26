@@ -1,0 +1,47 @@
+
+/*Login Page */
+
+body {
+  background-color:#F2F2F2;
+}
+
+.form-signin {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.login-header{
+    font-size: 2rem;
+    margin-bottom: 10%;
+    color: #364559;
+}
+
+.btn-primary{
+    background-color: #99B1BF;
+    border-color: #99B1BF;
+}
+
+/* Homepage */
+
+.dashboard-area{
+    background-color: #F2F2F2;
+    height: 100vh;
+}
+
+/* New Note */
+#note_area{
+    border: 1px solid black;
+    width: 100%;
+    height: 50vh;
+    background-color: white;
+}
+
+.btn-toolbar{
+    border: none;
+    outline: none;
+    background-color: white;
+}
+
+
